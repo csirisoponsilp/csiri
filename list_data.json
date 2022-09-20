@@ -5,24 +5,28 @@
 			"Menu": "Freshrolls",
 			"Highlights": "Lemongrass Pork, Peanut Sauce",
 			"Price": "$5.00"
+			"Rating": "4.5/5"
 		},
 		{
 			"Restaurant": "Tacos Sinaloa",
 			"Menu": "Burrito Bowl",
 			"Highlights": "Carnitas (Crispy!), Camaron",
 			"Price": "$12.00"
+			"Rating": "3.5/5"
 		},
 		{
 			"Restaurant": "Mad Seoul",
 			"Menu": "Build Your Own Bowl/The Zen",
 			"Highlights": "Sesame Ginger Sauce, Pickled Veggies",
 			"Price": "$12.00"
+			"Rating": "3.5/5"
 		},
 		{
 			"Restaurant": "Poke Bar",
 			"Menu": "Build Your Own Small Bowl",
 			"Highlights": "Pineapple, Crispy Onion and Garlic",
 			"Price": "$11.95"
+			"Rating": "3/5"
 		}
 	]
 }
